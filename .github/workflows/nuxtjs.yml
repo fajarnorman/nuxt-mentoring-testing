@@ -48,4 +48,4 @@ jobs:
           server: nuxt-project.fajarnormanharun.com
           username: nuxtftpfajarproject@nuxt-project.fajarnormanharun.com
           password: nuxtftpfajarproject123
-          local-dir: ./dist
+          local-dir: ./dist/
